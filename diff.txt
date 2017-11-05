@@ -1,1 +1,2 @@
 Salut à tous on va tester git diff
+changeons donc ce fichier et effectuons un git diff --cached pour voir ce que ça donne !
